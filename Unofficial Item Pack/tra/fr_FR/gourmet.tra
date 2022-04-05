@@ -1,0 +1,36 @@
+
+@23    = ~Le pédoncule oculaire d'un Orbe Ancien, qui ne voulait vraiment pas s'en séparer, ingrédient magique très puissant.
+
+S'il est consommé, l'utilisateur recevra une partie de la sagesse d'un Orbe Ancien.
+
+PARAMÈTRES :
+
+Sagesse : +1 en permanence
+Capacité spéciale : le pédoncule oculaire disparaît après usage
+Utilisation : placez-le dans un emplacement d'objet rapide
+
+Poids : 5~
+
+@24    = ~Le sang du prince kuo-toa, ingrédient magique très puissant.
+
+S'il est consommé, l'utilisateur recevra une partie de la dextérité d'un kuo-toa.
+
+PARAMÈTRES :
+
+Dextérité : +1 en permanence
+Capacité spéciale : le sang disparaît après usage
+Utilisation : placez-le dans un emplacement d'objet rapide
+
+Poids : 5~
+
+@25    = ~C'est du sang d'un géancéphale, ingrédient magique très puissant. De la matière grise gluante flotte dans le sang noirâtre.
+
+S'il est consommé, l'utilisateur recevra une partie de l'intelligence d'un géancéphale.
+
+PARAMÈTRES :
+
+Intelligence : +1 en permanence
+Capacité spéciale : le sang disparaît après usage
+Utilisation : placez-le dans un emplacement d'objet rapide
+
+Poids : 5~

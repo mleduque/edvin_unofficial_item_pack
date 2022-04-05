@@ -1,0 +1,73 @@
+
+@36    = ~Découpeur d'innocents
+Ce hachoir géant qui ressemble à une hache a obtenu son nom alors qu'il était dans les mains d'Oswell Breck, un boucher du quartier des Gratte-papiers de Sigil. L'histoire raconte qu'un jour, ce citoyen aimable et respecté s'est déchaîné dans une folie meurtrière et sanglante qui a duré dix jours et dix nuits. Le hachoir en main, Oswell parcourut les rue du quartier, découpant brutalement tout homme, toute femme ou tout enfant assez malchanceux pour croiser son chemin, jusqu'à ce que la Dame elle-même intervienne. Il semblerait qu'il souffrait d'une maladie étrange qui détériorait lentement son corps et que c'est cette même maladie qui avait miné son esprit et déclenché sa frénésie meurtrière.
+
+L'origine de cet instrument de carnage est entourée de mystères. Malgré tout, les nombreux magiciens et savants qui ont examiné l'arme abandonnée après qu'Oswell a subit un sort de Labyrinthe ont décrit la nature de son enchantement. Le hachoir semble se nourrir de ses victimes, absorbant leur force vitale et la transférant à son porteur.
+
+PARAMÈTRES :
+
+Capacités de combat :
+– Chaque fois que la cible est touchée, 2 points de vie sont drainés de la cible et transférés au porteur. Le porteur ne sera pas soigné au-delà de son maximum de points de vie.
+
+TAC0 : +3
+Dégâts : 2d4 +3 (tranchant)
+Facteur de vitesse : 0
+Type de compétence : dague
+Type : arme à une main
+Nécessite : 3 en force
+
+Poids : 5~
+
+@37    = ~Dague~
+
+@38   = ~Découpeur d'innocents~
+
+@101    = ~Cette figurine d'un pouvoir extraordinaire était précédemment en possession de Drizzt Do'Urden, qui considérait Guenhwyvar comme son compagnon animal de rôdeur. Elle peut être convoquée aux côtés de son maître pendant huit heures chaque jour. Il lui est possible de rester hors du plan astral pendant plus longtemps, mais elle devient alors extrêmement somnolente, à peine capable de tenir sa tête.
+
+PARAMÈTRES :
+
+Capacités de charge :
+– Convoque Guenhwyvar une fois par jour
+
+Poids : 5~
+
+@102    = ~Figurine~
+
+@103    = ~Figurine de Guenhwyvar~
+
+@104    = ~Sablier~
+@105    = ~Sablier de Gond~
+@106    = ~Ces sabliers magiques sont vus comme certains des plus puissants artefacts de Gond. Une fois par jour, il est possible d'utiliser leur pouvoir cachés pour arrêter temporairement le temps. Ce sablier a longtemps été en possession des Mages Cagoulés qui étudiaient son pouvoir.
+
+PARAMÈTRES :
+
+Capacités de charge :
+– Arrêt du temps uen fois par jour
+
+Poids : 1~
+
+@110    = ~Anneau~
+@111    = ~Anneau de maladresse profane supérieure~
+@112    = ~Il est difficile de décider si cette anneau est ue bénédiction ou une malédiction. Alors qu'il a sauvé nombre de magiciens, beaucoup d'entre eux sont morts par la suite à cause de cet anneau. Cet anneau se comporte comme un canal vers le plan astral, permettant à tout sort d'être lancé de façon presque immédiate. Hélas, la connexion directe avec le plan astral demande une immense concentration et la plus petite distraction provoquera un échec du sort.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Le lancer de sort est instantané
+– Échec des sorts : 30%
+– Classe d'armure : +1
+
+Poids : 0~
+
+@114    = ~Robe~
+@115    = ~Robe de Kangaxx~
+@116    = ~Cette robe puissante était portée par l'ancienne liche Kangaxx qui avait trouvé une façon de lier son essence à cette sphère et s'est rendue insensible à toutes les formes magique d'emprisonnement. Une partie de cette magie reste présente dans la robe, mais le tissu est complètement imprégné par le mal.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+– Classe d'armure : 3
+– Résistance à la magie: +10 %
+– Immunité aux formes magiques d'emprisonnement
+
+Poids : 6~

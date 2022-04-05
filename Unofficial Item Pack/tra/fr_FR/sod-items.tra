@@ -1,0 +1,347 @@
+
+@40    = ~Pour frapper par surprise, la plupart des voleurs préfèrent les lames, mais pas tous. Que ce soit par conviction religieuse, choix personnel ou anti-conformisme, certains préfèrent employer une arme contondante.
+
+PARAMÈTRES :
+
+Capacités de combat :
+- Rend la cible inconsciente pendant 2 rounds en cas d'attaque sournoise réussie (jet de sauvegarde contre la mort pour annuler)
+
+TAC0 : +2
+Dégâts : 1d6+2 (contondant)
+Facteur de vitesse : 2
+Type de compétence : gourdin
+Type : arme à une main
+Nécessite : 
+ 5 en Force
+
+Poids : 3~
+
+@41    = ~Gourdin~
+
+@42    = ~Brise-échine =2~
+
+@43    = ~Fabriqués avec la meilleure peau de daim, cette paire de gants a évidemment été conçue pour des mains de gnome (même si les nains et autres races plus petites pourraient probablement les utiliser également). Au porteur adéquat, les gants offrent protection et confort en proportion égale. Ils forment comme une seconde peau et l'utilisateur devient plus sensible à ce que font ses mains, ce qui augmente l'agilité et la dextérité du porteur.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Dextérité : +2 (gnomes), +1 (petites-personnes, nains et gobelins)
+- Vol à la tire : +25 %
+- Pose de pièges : +25 %
+
+Poids : 2~
+
+@44    = ~Gantelets~
+
+@45    = ~Gants d'agilité~
+
+@46    = ~Ces gantelets aident à traquer et tuer les proies. S'ils sont prisés des chasseurs et des voleurs de tous horizons, leur véritable potentiel n'est révélé que lorsqu'ils sont portés par un traqueur. Fabriqués en cuir souple avec des lanières aux boucles en laiton sur les côtés, ces gantelets sont souvent ornés de silhouettes brodées d'animaux tels que le cerf, le renard, ou, dans le cas de cette paire, le loup.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Dextérité : +1
+- Se cacher dans l'ombre : +15 % (+30 % pour les traqueurs)
+- Multiplicateur d'attaque sournoise : +1 (traqueurs uniquement)
+
+Poids : 2~
+
+@47    = ~Gantelets~
+
+@48    = ~Gantelets du traqueur~
+
+@49    = ~Cette cornemuse violette possède une texture étrange et duveteuse. En y regardant de plus près, la cornemuse semble être faite dans la peau d'une quelconque créature dont les tentacules servent de tuyaux. Quand on en joue, la cornemuse gronde et stridule comme une bête agonisante.
+
+PARAMÈTRES :
+
+Capacités de charge :
+- Éclat sonore deux fois par jour
+  Dégâts : 4d8 soniques (Bouffon), 2d8 (autres) (jet de sauvegarde contre les souffles pour moitié)
+  Spécial : rend sourd pendant 3 rounds (jet de sauvegarde contre les souffles pour annuler)
+  Zone d'effet : rayon de 4,5 m autour du barde
+
+Poids : 3~
+
+@50    = ~Cornemuse~
+
+@51    = ~Cornemuse hurlante~
+
+@52    = ~Bien que cette cape gris foncé semble être faite en pierre, elle est aussi douce et flexible qu'un tissu. Elle permet à son porteur de prendre l'apparence d'une statue une fois par jour. Ces capes sont souvent portées par les duergars car ce sont eux qui les ont conçues, mais on en trouve parfois à la surface. 
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Résistance aux dégâts physiques : +5 %
+- Protège contre les coups critiques
+
+Capacités de charge :
+- Forme de statue une fois par jour.
+  Classe d'armure : 0
+
+  Jets de sauvegarde : +3
+  Dextérité : -3
+  Durée : 5 tours
+Poids : 2~
+
+@53    = ~Cape~
+
+@54    = ~Cape de la gargouille~
+
+@55    = ~Cette majestueuse couronne, dorée et scintillante, est en réalité constituée d'or factice et les « gemmes » qui la décorent ne sont que des morceaux de verre teinté. La couronne permet à son porteur de préparer des sorts supplémentaires, mais lui remplit l'esprit de connaissances illusoires. 
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Permet de mémoriser 2 sorts de magicien supplémentaires de niveau 3, 1 de niveau 4 et 1 de niveau 5
+- Connaissances : -30
+
+Poids : 1~
+
+@56    = ~Couronne~
+
+@57    = ~Couronne de mensonges~
+
+@58    = ~Ce chapeau pointu de magicien est orné du titre de son propriétaire, tracé à l'aide de paillettes criardes. Le chapeau de magicien rend son porteur bien plus rapide, que ce soit pour lancer des sorts ou courir. Après tout, un magicien qui fuit un combat pourra aussi fuir le combat suivant.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Vitesse d'incantation : +1
+- Vitesse de déplacement : +2
+
+Poids : 0~
+
+@59    = ~Chapeau~
+
+@60    = ~Chapeau de magicien~
+
+@61    = ~Il y a près d'un siècle, le paladin de Lathandre Edythe Clairvœu ordonna la confection de ce heaume dans le but d'affronter un puissant vampire. Durant ses nombreuses années en tant que chevalier du Seigneur de l'Aube, Dame Clairvœu avait accumulé des richesses qui servirent à la préparation de sa quête. Après avoir traqué le vampire jusqu'à la Cité des Morts d'Eauprofonde, elle assembla un groupe d'aventuriers et les mena dans l'antre du monstre. Un seul d'entre eux survécut. Couvert de sang et les yeux exorbités, tenant à la main le heaume de Dame Clairvœu, il raconta comment, dans les dédales cauchemardesques, le vampire les avait massacrés un par un. Ces galeries furent découvertes lors d'une enquête menée dans la Cité des Morts, mais elles étaient toutes effondrées. Il ne restait aucune trace du vampire.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Immunité contre la peur, le charme et la paralysie.
+- Protège contre les coups critiques
+
+Poids : 1~
+
+@62    = ~Bandeau~
+
+@63    = ~Bandeau de mire~
+
+@64    = ~La guerrière qui portait autrefois cette armure mourut aux mains d'une amie en qui elle avait confiance. Les taches de sang qui marquent sa trahison se sont depuis assombries et sont devenues marron, contrastant avec le blanc éclatant des os qui composent cette armure. Bien qu'elle rende son porteur peu agréable à regarder, cette armure le protège correctement.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Immunité contre les attaques sournoises
+- Charisme : -1
+
+Classe d'armure : 1 (-2 contre les armes tranchantes)
+Nécessite :
+ 8 en Force
+
+Poids : 20~
+
+@65    = ~Armure de plates~
+
+@66    = ~Armure de plates sanglante en os +2~
+
+@67    = ~L'origine de cette robe violet sombre se perd dans les brumes de l'histoire, mais une vague odeur de magie rassise flotte dans l'air, autour de ce vêtement élimé. Celui qui la portait n'était clairement pas étranger à la Toile. Un examen attentif révèle des motifs de flammes stylisées tissés dans la trame. On dirait que cet artifice complexe a toujours été difficile à discerner, mais même si tel n'était pas le cas au début, des années d'usure ont rendu ces flammes à peine visibles.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+– Intelligence : +1
+– Classe d'armure : 5
+
+Capacités de charge :
+– Séquenceur de sorts une fois par jour
+
+Poids : 3~
+
+@68    = ~Robe de mage~
+
+@69    = ~Robe d'aptitude arcanique~
+
+@70    = ~Les Egons formaient une famille d'adorateurs très respectée à Lathandre. Ils devaient leur fortune à la protection qu'ils apportaient aux plus faibles. La lignée des Egons s'est éteinte, mais son influence perdure à travers ce bouclier, qui est imprégné d'une partie des pouvoirs du Seigneur de l'Aube en personne.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Classe d'armure : +3
+- Niveau pour repousser les morts-vivants : +2 (prêtres de Lathandre et chasseurs de morts-vivants), +1 (autres)
+
+Nécessite :
+ 12 en Force
+
+Poids : 6~
+
+@71    = ~Écu~
+
+@72    = ~Bouclier des Egons +2~
+
+@73    = ~En dépit de son nom intimidant, cet arc court n'a pas d'histoire macabre. Une rôdeuse elfe du nom de Kitsana a conçu cet arc pour elle-même, et le maniait à une vitesse incroyable. Une nuit, alors qu'ils avaient établi un campement, les membres du groupe de Kitsana essayèrent chacun leur tour de dompter la corde incroyablement fine et la prise courbée unique de cette arme. Nul ne fut aussi maladroit que le guerrier, un vantard du nom de Tirrel, qui manqua non seulement sa cible, mais cassa également la corde. Celle-ci frappa son avant-bras, arrachant un morceau de sa peau. Kitsana et son groupe ne sont plus qu'un lointain souvenir, mais son arc existe toujours.
+
+PARAMÈTRES :
+
+Capacités de combat :
+- 5 % de chances par touche d'accélérer la vitesse du porteur pendant 4 rounds
+
+Capacités d'équipement : 
+- Vitesse de déplacement : +2
+
+TAC0 : +2
+Dégâts : +2
+Facteur de vitesse : 4
+Type de compétence : arc court
+Type : arme à deux mains
+Nécessite :
+ 3 en Force
+16 en Dextérité
+
+Poids : 1~
+
+@74    = ~Arc court~
+
+@75    = ~Arrache-chair +2~
+
+@76    = ~Ce carreau est magique et s'embrase dès qu'il est tiré. L'effet est similaire à celui d'un carreau enduit d'huile enflammée.
+
+PARAMÈTRES :
+
+TAC0 : +1
+Dégâts : 1d8+1, +1d3 (feu)
+Type de dégâts : projectile
+Arme à distance : arbalète
+
+Poids : 0~
+
+@77    = ~Carreaux~
+
+@78    = ~Carreau de feu +1~
+
+@79    = ~Ce carreau a été enchanté de façon à se transformer en une énorme boule de glace dès qu'il est décoché. Quand il frappe sa cible, celle-ci subit une vague de froid qui l'engourdit et la brûle entièrement.
+
+PARAMÈTRES :
+
+TAC0 : +1
+Dégâts : 1d8+1, +1d3 (froid)
+Type de dégâts : projectile
+Arme à distance : arbalète
+
+Poids : 0~
+
+@80    = ~Carreaux~
+
+@81    = ~Carreaux de glace +1~
+
+@83    = ~Billes de Feu
+Taillés dans des osselets de salamandres mortes, ces projectiles incendiaires explosent dès qu'ils sont tirés depuis une fronde.
+
+PARAMÈTRES :
+
+Dégâts : 1d4 +1, +1d6 dégâts de feu (jet de sauvegarde contre les sorts pour annuler)
+Type de dégâts : projectile
+Arme à distance : fronde
+
+Poids : 0~
+
+@84    = ~Billes~
+
+@85    = ~Billes de feu +1~
+
+@86    = ~Billes de Glace
+Récupérés à partir du cadavre d'un élémentaire de glace, ces projectiles aiguisés se brisent à l'impact pour faire frissonner la cible d'un froid anormal.
+
+PARAMÈTRES :
+
+Dégâts : 1d4 +1, +1d6 dégâts de froid (jet de sauvegarde contre les sorts pour annuler)
+Type de dégâts : projectile
+Arme à distance : fronde
+
+Poids : 0~
+
+@87    = ~Billes~
+
+@88    = ~Billes de glace +1~
+
+@89    = ~Billes d'Électricité
+Chacune de ces billes de cuivre est modelée autour d'une vertèbre d'une anguille électrique. Au moment de l'impact, elles produisent une puissante décharge sur la cible. 
+
+PARAMÈTRES :
+
+Dégâts : 1d4 +1, +1d6 de dégâts électrique (jet de sauvegarde contre les sorts pour annuler)
+Type de dégâts : projectile
+Arme à distance : fronde 
+
+Poids : 0~
+
+@90    = ~Billes~
+
+@91    = ~Billes d'électricité +1~
+
+@92    = ~Sur ce lourd anneau en acier, un loquet permet d'ouvrir une charnière. Des douzaines de clefs peuvent être placées sur l'anneau, afin de les ranger.
+
+PARAMÈTRES :
+
+Poids : 0~
+
+@93    = ~Porte-clefs~
+
+@94    = ~Porte-clefs~
+
+@95    = ~L'avant de ce plastron lourd en acier est orné d'un dragon de cuivre prenant son envol. La légèreté de ce plastron et la finesse des détails du dragon suggèrent qu'il s'agit de l'œuvre d'un artisan nain.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Résistance au feu : 40 %
+- Jet de sauvegarde contre les souffles : +2
+
+Classe d'armure : 0 (-4 contre les armes tranchantes, -3 contre les armes perforantes et les projectiles)
+Nécessite :
+ 15 en Force
+
+Poids : 30~
+
+@96    = ~Armure de plates complète~
+
+@97    = ~Armure de plates complète de Daeros +1~
+
+@98    = ~Cette épée longue, forgée à l'effigie de la langue d'un diable, a une lame « plus perçante qu'aucun hurlement » si l'on en croit les inscriptions sur sa garde. Elle coupe facilement à travers l'armure et les os, et laisse une traînée d'acide dans les blessures qu'elle inflige. La douleur est si intense que ceux qui en sont victimes peuvent à peine bouger et agonisent.
+
+PARAMÈTRES :
+
+Capacités de combat :
+- 10 % de chances par coup de ralentir la cible pendant 3 rounds (jet de sauvegarde contre les sorts pour annuler)
+
+TAC0 : +3
+Dégâts : 1d8+3, +1d3 (acide)
+Type de dégâts : tranchant
+Facteur de vitesse : 2
+Type de compétence : épée longue
+Type : arme à une main
+Nécessite :
+ 6 en Force
+
+Poids : 2~
+
+@99    = ~Épée longue~
+
+@100    = ~Langue d'acide +3~
+
+@107    = ~Bandeau~
+@108    = ~Bandeau de concentration~
+@109    = ~Un adorateur de Nobanion a fabriqué ce bandeau de soie dorée, brodé de lions abstraits sur toute sa longueur, tandis qu'il méditait sur les enseignements de la Crinière de Feu. Une fois le bandeau terminé, l'adorateur découvrit que Nobanion avait récompensé sa fidélité en accordant à l'objet la capacité de conjurer une bouffée de puissance dans son porteur.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- TAC0 : +2 (attaques à main nue)
+- Chance de coup critique : +5 % (attaques à main nue)
+
+Capacités de charge :
+- Puiser dans la puissance divine une fois par jour
+
+Poids : 1~

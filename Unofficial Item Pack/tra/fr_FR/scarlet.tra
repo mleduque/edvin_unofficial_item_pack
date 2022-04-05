@@ -1,0 +1,21 @@
+
+@19    = ~Lorsqu'un membre de la Confrérie Écarlate tue l'un des « grands ennemis » de cette organisation, il est souvent récompensé par cette épée. En revanche, personne ne sait comment cette épée est arrivée dans Féérune depuis le monde de Faucongris (où siège la confrérie). Une fois dégainé, ce katana luit d'une couleur rouge sang.
+
+PARAMÈTRES :
+
+Capacités de combat :
+- Une attaque supplémentaire par round
+- La cible subit 6 points de dégâts de poison par round pendant 2 rounds (jet de sauvegarde contre la mort pour annuler)
+
+TAC0 : +3
+Dégâts : 1d10+3 (tranchant)
+Facteur de vitesse : 1
+Type de compétence : katana
+Type : arme à une main
+Nécessite : 6 en force
+
+Poids : 2~
+
+@20    = ~Katana~
+
+@21    = ~Katana de la Confrérie écarlate~

@@ -9,6 +9,16 @@ LANGUAGE ~English~
          ~en_US~
          ~Unofficial Item Pack/tra/en_US/Setup-Unofficial Item Pack.tra~
 
+LANGUAGE ~French~
+        ~fr_FR~
+        ~Unofficial Item Pack/tra/fr_FR/setup.tra~
+        ~Unofficial Item Pack/tra/fr_FR/sod-items.tra~
+        ~Unofficial Item Pack/tra/fr_FR/scarlet.tra~
+        ~Unofficial Item Pack/tra/fr_FR/gourmet.tra~
+        ~Unofficial Item Pack/tra/fr_FR/items.tra~
+        ~Unofficial Item Pack/tra/fr_FR/new_items.tra~
+        ~Unofficial Item Pack/tra/fr_FR/holy_symbols.tra~
+
 BEGIN @0
 
 COPY ~Unofficial Item Pack/Items~ ~override~

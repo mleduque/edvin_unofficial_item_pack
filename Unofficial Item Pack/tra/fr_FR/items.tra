@@ -1,0 +1,238 @@
+
+@1    = ~Cette pierre-sésame crée une zone de ténèbres qui semble absorber la lumière ambiante. Enveloppée de ténèbres, la forme de la pierre est difficile à distinguer. Quand elle est utilisée comme pierre ioun, une ombre enveloppe complètement le porteur et le protège contre les attaques des créatures des ténèbres même les plus féroces.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+– Protection contre le Plan Négatif
+
+Poids : 1~
+
+
+@2    = ~Trois symboles sacrés qui, réunis, forment un disque, le symbole de Amaunator. Il contient encore des résidus du pouvoir perdu du dieu du soleil et peut être utilisé pour générer des rayons de soleil une fois par jour.
+
+PARAMÈTRES :
+
+Capacités de charge :
+- Rayon de soleil une fois par jour
+
+Poids : 1~
+
+
+@3    = ~C'est le masque reconstitué du roi Strohm III. Lorsque vous le mettez sur votre visage, le monde qui vous entoure prend des couleurs étranges. Le masque permet au porteur de voir les choses telles qu'elles sont vraiment.
+
+PARAMÈTRES :
+
+Capacités de charge :
+- Vision véritable une fois par jour
+
+Capacités d'équipement :
+- Classe d'armure : +1
+
+Poids : 1~
+
+@4    = ~Médaillon de très belle facture, du genre de ceux donnés à une personne à qui l'on tient beaucoup. Un enchantement mineur y renferme les figures de <CHARNAME> et Jaheira, en faisant un très beau souvenir. Une des faces a été souillée, mais cela reste quand même un beau cadeau. Quand Jaheira porte le médaillon à son cou, elle paraît beaucoup plus détendue.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+– Points de vie : +5
+– Charisme : +1
+- Classe d'armure : +1
+
+Poids : 1~
+
+@5    = ~Les gemmes dans lesquelles la liche Deirex emprisonne les âmes de ses adversaires. Une personne vraiment maléfique pourrait essayer d'absorber la vitalité des guerriers drows emprisonnés. Cependant, ceci demande beaucoup de concentration, et l'utilisateur ne pourrait pas lancer de sorts.
+
+PARAMÈTRES :
+
+Capacités de charge :
+- Transformation de Tenser une fois par jour
+
+Poids : 1~
+
+@6    = ~Forgée par les drows, cette masse d'armes a été spécialement traitée pour résister aux rayons du soleil. Elle a été conçue par la race souterraine en vue d'effectuer des raids à la surface... Son métal noir luit d'un poison sombre qu'elle semble générer elle-même, et cause des dégâts impressionnants en cas d'impact.
+
+Cette masse d'armes semble presque vivante ; elle paraît chaude au toucher et semble vouloir glisser des mains de ceux qu'elle n'aime pas... à savoir les drows ou leurs semblables. Dans les mains d'une autre personne, elle n'est guère plus utile qu'un poids mort.
+
+PARAMÈTRES :
+
+Capacités de combat :
+- Toute cible touchée doit réussir un jet de sauvegarde contre le poison ou subir 2 points de dégâts par round pendant 1 tour
+
+TAC0 : +3
+Dégâts : 1d6+4 (contondants)
+Facteur de vitesse : 6
+Type de compétence : masse d'armes
+Type : arme à une main
+Nécessite : 9 en Force
+
+Poids : 7~
+
+
+@7    = ~La cape de déplacement est un objet magique qui modifie subtilement l'image de son porteur. Celui-ci semble se trouver à 15 cm (dans n'importe quelle direction) de l'endroit où il se situe vraiment. Très utile en combat, cette cape a cependant tendance à fatiguer les yeux des compagnons du porteur...
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Classe d'armure : +4 contre les projectiles
+- Jet de sauvegarde contre la mort : +2
+- Jet de sauvegarde contre les souffles : +2
+- Jet de sauvegarde contre les baguettes : +2
+
+Poids : 3~
+
+
+@8    = ~On sait peu de choses sur cet objet, si ce n'est que la griffe elle-même a été prélevée sur le cadavre de Kazgaroth, la bête géante. Cet objet est doté de plusieurs enchantements qui s'activent dès que la griffe est portée en anneau. L'image du porteur se trouble alors et il devient plus difficile de l'atteindre à l'aide d'armes ou de sorts. Cet objet présente toutefois un inconvénient : il se nourrit apparemment du sang de son porteur. Aussi, le porteur de la griffe se sent-il souvent faible, ce qui le rend plus vulnérable aux effets des poisons.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Constitution : -2
+- Classe d'armure : +1, +4 contre les projectiles
+- Jet de sauvegarde contre la mort : -3
+- Jet de sauvegarde contre les baguettes : +3
+- Jet de sauvegarde contre la métamorphose : +3
+- Jet de sauvegarde contre les souffles : +3
+- Jet de sauvegarde contre les sorts : +3
+- Peut uniquement être retiré par un sort de Délivrance de la malédiction
+
+Poids : 1~
+
+@9    = ~Tissée par les meilleurs artisans elfes, cette cotte de maille semble faite de tissu plutôt que de métal. Elle peut être portée quasiment sans malus par les voleurs et les guerriers-mages.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Crochetage : -5 %
+- Détection des pièges : -5 %
+- Vol à la tire : -20 %
+- Furtivité : -10 %
+- Le lancer de sort n'est pas empêché
+
+Classe d'armure : 3 (1 contre les armes tranchantes, 5 contre les armes contondantes)
+Nécessite : 5 en Force
+
+Poids : 8~
+
+@10    = ~Ce seau sacré du dieu Tyr signifie que son porteur est un agent de sa justice et a la permission d'exécuter ceux qu'il ou elle jugera malfaisants.
+
+La personne porte cette puissante amulette est protégée contre le mal et son esprit est clair.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+– Protection contr ele mal
+– Immunisé contre le charme
+– Immunisé contre la confusion
+
+Poids : 0~
+
+@11    = ~En serrant ce talisman très fort, l'utilisateur se retrouve immédiatement téléporté par magie à un endroit prédéfini. Ce talisman de foyer ardent en particulier a été conçu pour amener son utilisateur à un refuge caché au cœur d'une forêt dans Amn.
+
+Wild Magic provides much more power than is needed, so the talisman can be used even for fast transfers over short distances.
+
+PARAMÈTRES :
+
+Capacités de charge :
+- Porte dimensionnelle trois fois par jour
+
+Poids : 1~
+
+@12    = ~Bandeau doré trouvé dans la tombe scellée du cimetière de Franc-Marché. Terni par les ans, il porte le symbole encore discernable de Waukyne.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Charisme : +2
+- Le porteur est sous l'effet d'un sort de Chance
+
+Poids : 1~
+
+@13    = ~Le cristal que vous avez récupéré auprès de l'avatar de Kurtulmak, dont l'essence était emprisonnée. Les kobolds semblent le vénérer plus que tout au monde.
+
+On dirait que les pouvoirs magiques du morceau de cristal peut servir à absorber les sorts des ennemis.
+
+PARAMÈTRES :
+
+Capacités de charge :
+- Rayon rubis d'inversion une fois par jour
+
+Poids : 18~
+
+@14    = ~Bouh est un petit hamster hirsute, tout ce qu'il y a de plus ordinaire (en apparence tout au moins). Mais Minsc est persuadé qu'il s'agit d'un hamster géant miniature de l'espace.
+
+PARAMÈTRES :
+
+Capacités de charge :
+- Boo peut sentir le mal !
+
+Poids : 1~
+
+@15    = ~Faite de peau humaine traitée avec le sang d'un noble dragon, cette armure émet une puanteur de mort. Elle ne peut être portée que par une personne entièrement vouée aux forces du mal.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Jets de sauvegarde : +4
+- Résistance à la magie : +20 %
+- Furtivité : +20 %
+
+Classe d'armure : 3 (5 contre les armes perforantes et les projectiles)
+Nécessite : 3 en Force
+
+Poids : 5~
+
+@16    = ~Ce saphir étoilé constitue la prison de l'âme de Malla, une jeune femme innocente. Il a la capacité de flotter au-dessus de la tête et d'agir comme une pierre d'Ioun. Néanmoins, seule une personne sans scrupules pourrait envisager d'utiliser un tel objet !
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+– Dextérité : +1
+– Constitution : +1
+– Constitution : +1
+– Points de vie : +10
+
+Poids : 2~
+
+@17    = ~Un manquement à l'étiquette obligea le parvenu Andor Licon à affronter en duel le baron Eeirk, héritier d'un roi guerrier. Bien qu'ils semblaient être de forces égales, Andor se sentit bizarrement affaibli après chaque coup de l'épée de famille du baron. Pris de panique, il ordonna à ses gardes de tuer Eeirk. Malgré ses justifications, on pouvait remarquer que le jeune noble avait positionné ses hommes avant même le début du combat. Et quoi qu'il n'ait déclaré que du mépris pour la magie noire de la lame maléfique de son adversaire, il se fit une petite fortune en la vendant.
+
+PARAMÈTRES :
+
+Capacités de combat :
+- Chaque fois que la cible est touchée, elle subit un malus cumulatif de 2 points à son TAC0 pendant 2 tours
+– Chaque fois que la cible est touchée, 2 points de vie sont drainés de la cible et transférés au porteur. Le porteur ne sera pas soigné au-delà de son maximum de points de vie.
+
+TAC0 : +4
+Dégâts : 1d12+4 (tranchant)
+Facteur de vitesse : 6
+Type de compétence : épée à deux mains
+Type : arme à deux mains
+Nécessite : 14 en Force
+
+Poids : 10~
+
+@33    = ~Il s'agit de l'arme de Dominique Harl, un paladin aveugle qui voyageait beaucoup dans Féérune. Quand il était attaqué, Dominique libérait la brume noire qui donne son nom à la hallebarde, et qui a le potentiel d'aveugler tous ceux qui se trouve à moins de 1,5 mètre. Cela lui conférait un avantage, puisque lui vivait toute sa vie dans l'obscurité, ne voyant que par la lumière de la foi. Dominique finit par tomber au combat, et on retrouva au cœur d'une forêt profonde son corps meurtri par des créatures de la nuit pour qui l'obscurité était encore plus naturelle.
+
+PARAMÈTRES :
+
+Capacités de combat :
+– Chaque fois que la cible est touchée, elle doit réussir un jet de sauvegarde contre les sorts pour ne pas être aveuglée pendant 3 rounds
+
+TAC0 : +4
+Dégâts : 1d10+4 (perforant)
+Facteur de vitesse : 5
+Type de compétence : hallebarde
+Type : arme à deux mains
+Nécessite : 13 en Force
+
+Poids : 10~
+
+@34    = ~Ce ceinturon augmente considérablement la Constitution de son porteur. Le roi Violos s'en servit pour mener une expédition contre des trolls des marais. Il avait été gravement malade l'hiver précédent et n'avait pas retrouvé sa santé passée. La ceinture lui permit de prolonger sa vie de plusieurs années et rendit à ses hommes leur confiance en leur roi.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+– Constitution : 18
+
+Poids : 2~
